@@ -16,3 +16,5 @@ sentence_transformers
 sentence-transformers 
 huggingface_hub
 faiss-cpu
+rapidfuzz
+newspaper3k
