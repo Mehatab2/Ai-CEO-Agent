@@ -1,0 +1,32 @@
+[
+  {
+    "title": "AI-powered customer experiences",
+    "category": "Technology",
+    "description": "SAP's Advanced Success Plan embeds AI adoption patterns directly into delivery approaches, prioritizing high-impact use cases and guiding model governance.",
+    "evidence": "The results are prioritized engagement with measurable outcomes like improved loyalty."
+  },
+  {
+    "title": "Unified customer experience orchestration across channels",
+    "category": "Technology",
+    "description": "SAP Engagement Cloud enables brands to activate journeys triggered by real-time events, breaking down silos and enabling enterprise-scale execution.",
+    "evidence": "Customers can expect effortless experiences with personalized interactions."
+  },
+  {
+    "title": "Supply chain transformation towards autonomy",
+    "category": "Industry Development",
+    "description": "SAP Sapphire announced innovations like SAP Cloud ERP Private to accelerate the Autonomous Enterprise strategy, integrating AI directly into manufacturing processes.",
+    "evidence": "Building on a foundation of integrated tools and planning capabilities."
+  },
+  {
+    "title": "Enhanced field services with integration across operational domains",
+    "category": "Technology",
+    "description": "A new SAP Field Service solution integrates service operations closely, linking parts usage to work execution for real-time alignment.",
+    "evidence": "The approach aims at achieving measurable value quickly by integrating planning and finance systems."
+  },
+  {
+    "title": "Continuous improvement with integrated software updates",
+    "category": "Technology",
+    "description": "SAP provides continuous guidance, support integration adjustments based on feedback for better performance in production environments.",
+    "evidence": "Functional experts are available to help address issues that arise during the implementation phase."
+  }
+]

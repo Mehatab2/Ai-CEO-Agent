@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Regulatory Changes in Electronic Invoicing",
+    "risk_category": "Regulatory, Competitive",
+    "severity_level": "High",
+    "evidence": "New legislation mandating electronic invoicing reflects a desire on the part of governments to bolster tax compliance and streamline financial reporting.",
+    "confidence_score": 85
+  },
+  {
+    "title": "Supply Chain Disruption Risks for Global Scale Expansion",
+    "risk_category": "Supply chain, Competitive",
+    "severity_level": "High",
+    "evidence": "Businesses turning increasingly towards data federation to counter disruption from geopolitical conflict or labor unrest.",
+    "confidence_score": 80
+  },
+  {
+    "title": "Compliance with Digital Sovereignty and Data Protection Laws",
+    "risk_category": "Regulatory, Compliance",
+    "severity_level": "High",
+    "evidence": "SAP Cloud Infrastructure self-assessment confirms compliance with BSI\u2019s C3A catalog for high regulatory requirements jurisdictions.",
+    "confidence_score": 90
+  }
+]
