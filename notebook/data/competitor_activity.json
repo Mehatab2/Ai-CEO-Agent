@@ -1,0 +1,42 @@
+[
+  {
+    "competitor": "Oracle",
+    "summary": "News snippets mention Oracle's significant spending on AI which has led to a cash flow deficit impacting SAP shares. Another snippet refers to AWS Bedrock requiring data sharing for Anthropic models like Mythos and future ones.",
+    "mention_count": 18
+  },
+  {
+    "competitor": "Workday",
+    "summary": "No recent activity detected in the current corpus.",
+    "mention_count": 0
+  },
+  {
+    "competitor": "Salesforce",
+    "summary": "The provided snippets do not contain specific information about Salesforce's actions or initiatives related to SAP.",
+    "mention_count": 3
+  },
+  {
+    "competitor": "Microsoft",
+    "summary": "The news snippets provided do not contain any specific actions or strategies by Microsoft's competitors that relate to market positioning against them.",
+    "mention_count": 23
+  },
+  {
+    "competitor": "Infor",
+    "summary": "No recent activity detected in the current corpus.",
+    "mention_count": 0
+  },
+  {
+    "competitor": "IFS",
+    "summary": "No recent activity detected in the current corpus.",
+    "mention_count": 0
+  },
+  {
+    "competitor": "ServiceNow",
+    "summary": "No recent activity detected in the current corpus.",
+    "mention_count": 0
+  },
+  {
+    "competitor": "Epicor",
+    "summary": "No recent activity detected in the current corpus.",
+    "mention_count": 0
+  }
+]
