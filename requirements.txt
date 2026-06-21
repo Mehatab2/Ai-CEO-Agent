@@ -18,3 +18,5 @@ huggingface_hub
 faiss-cpu
 rapidfuzz
 newspaper3k
+streamlit
+vaderSentiment
