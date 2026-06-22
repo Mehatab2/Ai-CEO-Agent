@@ -1,20 +1,26 @@
 [
   {
-    "title": "Leverage AI-Driven Discovery in Commerce",
+    "title": "Expand into AI-Driven Customer Experience Solutions",
     "impact_level": "High",
-    "evidence": "Recently announced partnerships with companies such as Amazon Web Services, Google Cloud, Parloa, and Vercel enable new interaction models like conversational commerce.",
+    "evidence": "The new economic model for partners with Autonomous CX allows building industry solutions that can be reused, scaled.",
     "confidence_score": 85
   },
   {
-    "title": "Expand Revenue Streams Through New Economic Models for Partners",
-    "impact_level": "High",
-    "evidence": "The economics for partners are changing. With Autonomous CX, partners can build: Industry solutions that can be reused and scaled Implementation packages that shorten delivery timelines Extensions and integrations across customers Ongoing services for AI optimization.",
-    "confidence_score": 90
+    "title": "Leverage SAP's Cloud Services to Tap into Rapid Market Growth",
+    "impact_level": "Medium",
+    "evidence": "Cloud revenue grew by up 19% and the total cloud backlog increased by 20%. These figures indicate strong market demand for rapid deployment of new services.",
+    "confidence_score": 75
   },
   {
-    "title": "Accelerate Digital Transformation with SAP's Composable Commerce Services",
-    "impact_level": "Medium",
-    "evidence": "SAP continues to be recognized in analyst evaluations, including the Gartner\u00ae Magic QuadrantTM for Digital Commerce. The new SAP Commerce Cloud delivers a standardized approach that leverages AI natively.",
-    "confidence_score": 75
+    "title": "Form Strategic Partnerships with Cloud Service Providers to Enhance Digital Transformation",
+    "impact_level": "High",
+    "evidence": "SAP announced partnerships, enabling interaction models like conversational commerce and AI-driven search. This signifies a move towards integrated cloud services.",
+    "confidence_score": 80
+  },
+  {
+    "title": "Develop Composable Commerce Solutions for Mid-Market Expansion",
+    "impact_level": "Medium to High",
+    "evidence": "SAP continues innovation in composable commerce, indicating an opportunity area due to its expansion and new offerings built around AI assistants.",
+    "confidence_score": 70
   }
 ]
